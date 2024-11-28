@@ -83,6 +83,48 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVCHCEIU
 
+[Document3]
+DocumentPath=PERIPHERAL.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CGWFTKPE
+
+[Document4]
+DocumentPath=C0 DEVB V1R0.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EXXZAUKQ
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for C0 DEVB V1R0\Design Rule Check - C0 DEVB V1R0.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for C0 DEVB V1R0\Net Status - C0 DEVB V1R0.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\..\..\LIBS Altium\*.*
 IncludeSubFolders=1

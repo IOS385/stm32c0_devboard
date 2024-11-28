@@ -1,0 +1,64 @@
+Net Status Report
+Filename     : C:\Projects_Git\stm32c0_devboard\MAIN\HARDWARE\ALTIUM\C0 DEVB V1R0.PcbDoc
+Date         : 19/11/2024
+Time         : 17:35:27
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +3.3V, Signal Layers Only, 0mm
+    ADC1_IN0, Signal Layers Only, 35.9039mm
+    ADC1_IN1, Signal Layers Only, 37.6874mm
+    ADC1_IN2, Signal Layers Only, 40.8713mm
+    CC1, Signal Layers Only, 5.6349mm
+    CC2, Signal Layers Only, 5.4278mm
+    CS1, Signal Layers Only, 35.8367mm
+    CS2, Signal Layers Only, 1.8771mm
+    D*_N, Signal Layers Only, 32.1549mm
+    D*_P, Signal Layers Only, 32.9298mm
+    EXTI0, Signal Layers Only, 28.8682mm
+    EXTI1, Signal Layers Only, 29.6886mm
+    EXTI4, Signal Layers Only, 28.713mm
+    EXTI5, Signal Layers Only, 27.868mm
+    GND, Signal Layers Only, 0mm
+    NetC7_1, Signal Layers Only, 3.5991mm
+    NetD5_1, Signal Layers Only, 0mm
+    NetD6_1, Signal Layers Only, 1.5001mm
+    NetLD1_1, Signal Layers Only, 2.2mm
+    NetLD1_2, Signal Layers Only, 18.2821mm
+    NetLD2_1, Signal Layers Only, 2.2mm
+    NetLD2_2, Signal Layers Only, 17.4131mm
+    NetLD3_1, Signal Layers Only, 2.2mm
+    NetLD3_2, Signal Layers Only, 16.6186mm
+    NetLD4_1, Signal Layers Only, 2.2mm
+    NetLD4_2, Signal Layers Only, 15.4099mm
+    NetLD5_1, Signal Layers Only, 2.2mm
+    NetLD5_2, Signal Layers Only, 15.0148mm
+    NetLD6_1, Signal Layers Only, 2.2mm
+    NetLD6_2, Signal Layers Only, 15.9783mm
+    NetLD7_1, Signal Layers Only, 2.2mm
+    NetLD7_2, Signal Layers Only, 16.9418mm
+    NetLD8_1, Signal Layers Only, 2.2mm
+    NetLD8_2, Signal Layers Only, 18.0627mm
+    NetP2_1, Signal Layers Only, 52.481mm
+    NetP2_2, Signal Layers Only, 62.3085mm
+    NetR11_1, Signal Layers Only, 14.2132mm
+    NetR1_1, Signal Layers Only, 3.0178mm
+    NetR1_2, Signal Layers Only, 19.0866mm
+    NetR2_1, Signal Layers Only, 1.5051mm
+    NetR2_2, Signal Layers Only, 19.5041mm
+    NetR3_1, Signal Layers Only, 2.9591mm
+    NetR3_2, Signal Layers Only, 20.2082mm
+    PA14, Signal Layers Only, 8.2229mm
+    PA15, Signal Layers Only, 2.1257mm
+    PA3, Signal Layers Only, 42.2033mm
+    PB3, Signal Layers Only, 27.8722mm
+    SPI2_MISO, Signal Layers Only, 33.8746mm
+    SPI2_MOSI, Signal Layers Only, 32.1802mm
+    SPI2_SCK, Signal Layers Only, 29.9708mm
+    SWDIO, Signal Layers Only, 2.4549mm
+    TIM1_CH3, Signal Layers Only, 1.8771mm
+    TIM2_CH3, Signal Layers Only, 1.8771mm
+    USART1_RX, Signal Layers Only, 2.3014mm
+    USART1_TX, Signal Layers Only, 2.0014mm
+    VBUS, Signal Layers Only, 0mm
+count : 56

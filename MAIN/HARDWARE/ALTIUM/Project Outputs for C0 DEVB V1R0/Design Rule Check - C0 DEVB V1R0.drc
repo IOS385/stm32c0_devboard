@@ -1,0 +1,15 @@
+Protel Design System Design Rule Check
+PCB File : C:\Projects_Git\stm32c0_devboard\MAIN\HARDWARE\ALTIUM\C0 DEVB V1R0.PcbDoc
+Date     : 19/11/2024
+Time     : 17:32:22
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2mm) (InNet('NetP2_1') OR InNet('NetP2_2'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00
